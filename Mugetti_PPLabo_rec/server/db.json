@@ -1,0 +1,84 @@
+{
+  "anuncios": [
+    {
+      "id": 2,
+      "titulo": "asdasdasd2121ZZZ",
+      "transaccion": "Venta",
+      "descripcion": "agregodb",
+      "precio": "1",
+      "cantBaños": "2",
+      "cantAutos": "4",
+      "cantDormitorios": "3"
+    },
+    {
+      "id": 3,
+      "titulo": "123123",
+      "transaccion": "Venta",
+      "descripcion": "asdasd",
+      "precio": 1,
+      "cantBaños": 1,
+      "cantAutos": 1,
+      "cantDormitorios": 1
+    },
+    {
+      "id": 4,
+      "titulo": "1231231221",
+      "transaccion": "Venta",
+      "descripcion": "asdasd",
+      "precio": 1,
+      "cantBaños": 1,
+      "cantAutos": 12222,
+      "cantDormitorios": 1
+    },
+    {
+      "id": 5,
+      "titulo": "asd",
+      "transaccion": "Venta",
+      "descripcion": "asd",
+      "precio": 1,
+      "cantBaños": 1,
+      "cantAutos": 1,
+      "cantDormitorios": 1
+    },
+    {
+      "id": 6,
+      "titulo": "asd12322",
+      "transaccion": "Alquiler",
+      "descripcion": "asdasd",
+      "precio": "1",
+      "cantBaños": "1",
+      "cantAutos": "1",
+      "cantDormitorios": "1"
+    },
+    {
+      "id": 7,
+      "titulo": "asdasdasd2121ZZZ",
+      "transaccion": "Venta",
+      "descripcion": "agregodb",
+      "precio": 12222,
+      "cantBaños": 2,
+      "cantAutos": 3,
+      "cantDormitorios": 4
+    },
+    {
+      "id": 8,
+      "titulo": "asd12322",
+      "transaccion": "Alquiler",
+      "descripcion": "asdasd",
+      "precio": 3,
+      "cantBaños": 1,
+      "cantAutos": 1,
+      "cantDormitorios": 1
+    },
+    {
+      "id": 9,
+      "titulo": "alquiler",
+      "transaccion": "Venta",
+      "descripcion": "asd",
+      "precio": 1,
+      "cantBaños": 1,
+      "cantAutos": 1,
+      "cantDormitorios": 1
+    }
+  ]
+}
